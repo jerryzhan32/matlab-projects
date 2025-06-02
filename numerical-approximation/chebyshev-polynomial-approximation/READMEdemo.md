@@ -2,3 +2,6 @@
 >chebyshev(1/(1+25*x^2),-1,1,5)
 
 ![pic](ex1,p1.png)
+>chebyshev(1/(1+25*x^2),-1,1,15)
+
+![pic](ex1,p2.png)
