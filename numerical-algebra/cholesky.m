@@ -1,4 +1,4 @@
-#摘自张诚坚《数值代数》
+%code from textbook
 function x=cholesky(a,b)
 n=length(b);v=zeros(n);x=zeros(n,1);y=zeros(n,1);
 for j=1:n
