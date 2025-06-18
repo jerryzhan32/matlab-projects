@@ -1,5 +1,4 @@
 %code by jerry
-%do email me if you want explanation for the code:)
 function cubicspline(x,fx,M0,Mn)
 n=length(x);M(1)=M0;M(n)=Mn;
 for i=1:n-1
