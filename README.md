@@ -9,4 +9,3 @@
 - cubicspine approximation
 ---
 *These codes are made to be extremely easy & ready to use!*  
-*do try for yourself:)*
